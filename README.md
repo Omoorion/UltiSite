@@ -14,38 +14,38 @@
 
 ### 🟡 videoplay.js -> glow animation and video timing and button functions
 
-# 🧾 Source Credits:
+## 🧾 Source Credits:
 
-## 🟣 Ghost Astley Tokyo Music Video -
+### 🟣 Ghost Astley Tokyo Music Video -
 
-### 🟢 https://www.youtube.com/watch?v=aYsgsSo1aow
+#### 🟢 https://www.youtube.com/watch?v=aYsgsSo1aow
 
-## 🟣 AmazDooM Fonts -
+### 🟣 AmazDooM Fonts -
 
-### 🟢 https://fontmeme.com/doom-font/
+#### 🟢 https://fontmeme.com/doom-font/
 
-## 🟣 Doom 2016 Font -
+### 🟣 Doom 2016 Font -
 
-### 🟢 https://www.fontspace.com/doom-2016-font-f43672
+#### 🟢 https://www.fontspace.com/doom-2016-font-f43672
 
-## 🟣 Rick's Face -
+### 🟣 Rick's Face -
 
-### 🟢 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+#### 🟢 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-# 💼 License:
+## 💼 License:
 
-## https://creativecommons.org/licenses/by-nc/4.0/
+### https://creativecommons.org/licenses/by-nc/4.0/
 
-## ⬇️
+### ⬇️
 
-## You are free to:
+### You are free to:
 
-### Share —
+#### Share —
 
-#### copy and redistribute the material in any medium or format
+##### copy and redistribute the material in any medium or format
 
-### Adapt —
+#### Adapt —
 
-#### remix, transform, and build upon the material
+##### remix, transform, and build upon the material
 
-## The licensor cannot revoke these freedoms as long as you follow the license terms.
+### The licensor cannot revoke these freedoms as long as you follow the license terms.
