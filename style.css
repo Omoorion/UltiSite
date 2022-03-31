@@ -315,3 +315,7 @@ video {
 ::-webkit-scrollbar-thumb {
   background: rgb(51, 255, 0);
 }
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(37, 185, 0);
+}
