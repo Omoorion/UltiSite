@@ -36,12 +36,16 @@
 
 ### https://creativecommons.org/licenses/by-nc/4.0/
 
-#### ⇩
+### ⇩
 
-#### You are <strong>free</strong> to:
+### You are free to:
 
-##### Share — copy and redistribute the material in any medium or format
+#### Share —
 
-##### Adapt — remix, transform, and build upon the material
+##### copy and redistribute the material in any medium or format
 
-#### The licensor cannot revoke these freedoms as long as you follow the license terms.
+#### Adapt —
+
+##### remix, transform, and build upon the material
+
+### The licensor cannot revoke these freedoms as long as you follow the license terms.
