@@ -38,10 +38,10 @@
 
 #### ⇩
 
-#### You are <strong>free</strong> to:
+#### You are free to:
 
-##### **Share** — copy and redistribute the material in any medium or format
+##### Share — copy and redistribute the material in any medium or format
 
-##### **Adapt** — remix, transform, and build upon the material
+##### Adapt — remix, transform, and build upon the material
 
-##### **The licensor cannot revoke these freedoms as long as you follow the license terms.**
+#### The licensor cannot revoke these freedoms as long as you follow the license terms.
