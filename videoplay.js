@@ -35,13 +35,14 @@ bait.addEventListener("click", ()=>{
         //MAKE BACKGROUND REALLY DARK WHEN YOU PRESS AND THEN LIGHT IT UP AFTER 2 SECONDS WITH THE REST OF THE STUFF 
         sleep(2000).then(()=>{
             body.style.background = "rgb(25, 0, 37)"
+            body.style.animationPlayState='running'
             maintxt.style.opacity=1
             video.style.opacity=1
             pbtn.style.visibility="visible"
             pbtn.style.opacity=1
+            first=false
             //LIGHT IT UP HERE OR MAYBE IN STARTANIMATION()
          })
-        first=false
     }
 })
 
@@ -53,7 +54,7 @@ pbtn.addEventListener("click", ()=>{
         function() {
             // Reduce volume by 0.05 as long as it is above 0
             // This works as long as you start with a multiple of 0.05!
-            if (vol > 0) {
+            if (vol > 0.05) {
             vol -= 0.05
             video.volume = vol
             }
@@ -65,6 +66,8 @@ pbtn.addEventListener("click", ()=>{
     video.style.opacity=0
     pbtn.style.opacity=0
     maintxt.style.opacity=0
+    body.style.animation="None"
+    body.style.background="rgb(25, 0, 37)"
     sleep(2000).then(()=>{
         video.style.visibility="hidden"
         pbtn.style.visibility="hidden"
@@ -85,6 +88,9 @@ function StartAnim(){
     maintxt.style.animationPlayState = 'running'
     video.style.animationPlayState='running'
     pbtn.style.animationPlayState='running'
+    if(!first){
+        body.style.animationPlayState='running'
+    }
     //handle the nevergonna glowing delay in the middle of the choir
 }
 
@@ -95,6 +101,7 @@ function stopAnim(){
     maintxt.style.animationPlayState = 'paused'
     video.style.animationPlayState='paused'
     pbtn.style.animationPlayState='paused'
+    body.style.animationPlayState='paused'
 }
 
 function scrollToElement(pageElement) {    

@@ -21,7 +21,7 @@ document.body.appendChild( renderer.domElement );
 
 const loader = new THREE.TextureLoader();
 const geometry = new THREE.SphereGeometry(1, 64, 32);
-const material = new THREE.MeshBasicMaterial( {map: loader.load('/RickFace.jpg'), } );
+const material = new THREE.MeshBasicMaterial( {map: loader.load('./sources/RickFace.jpg'), } );
 const sphere = new THREE.Mesh( geometry, material );
 scene.add( sphere );
 
