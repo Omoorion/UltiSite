@@ -16,14 +16,18 @@
 
 ## Sources Credits:
 
-### 🟣 Ghost Astley Tokyo Music Video.mp4 -
+### 🟣 Ghost Astley Tokyo Music Video -
 
 #### 🟢 https://www.youtube.com/watch?v=aYsgsSo1aow
 
-### 🟣 Doom-Left Fonts -
+### 🟣 AmazDoom Fonts -
 
 #### 🟢 https://fontmeme.com/doom-font/
 
 ### 🟣 Doom 2016 Font -
 
 #### 🟢 https://www.fontspace.com/doom-2016-font-f43672
+
+### 🟣 Rick's Face -
+
+#### 🟢 https://www.youtube.com/watch?v=dQw4w9WgXcQ
