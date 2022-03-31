@@ -1,6 +1,6 @@
 # Omoor's Ultimate Site
 
-### Link: [Click here] ("https://omoorion.github.io/UltiSite/")
+### Link: [Click here](https://omoorion.github.io/UltiSite/)
 
 ## Sources Credits:
 
