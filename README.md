@@ -14,7 +14,7 @@
 
 ### 🟡 videoplay.js -> glow animation and video timing and button functions
 
-## 🧾 Sources Credits:
+## 🧾 Source Credits:
 
 ### 🟣 Ghost Astley Tokyo Music Video -
 
@@ -31,3 +31,17 @@
 ### 🟣 Rick's Face -
 
 #### 🟢 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+# License:
+
+### https://creativecommons.org/licenses/by-nc/4.0/
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⇩
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;You are free to:
+
+##### Share — copy and redistribute the material in any medium or format
+
+##### Adapt — remix, transform, and build upon the material
+
+##### The licensor cannot revoke these freedoms as long as you follow the license terms.
