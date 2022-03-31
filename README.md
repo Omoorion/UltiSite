@@ -38,7 +38,7 @@
 
 #### ⇩
 
-#### You are **free** to:
+#### You are <strong>free</strong> to:
 
 ##### **Share** — copy and redistribute the material in any medium or format
 
