@@ -1,0 +1,301 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Train+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
+@font-face {
+  font-family: "Doom";
+  src: url("/sources/Doom2016Text-GOlBq.ttf");
+}
+@font-face {
+  font-family: "DoomLeft";
+  src: url("/sources/AmazDooMLeft.ttf");
+}
+@font-face {
+  font-family: "DoomLeftOutline";
+  src: url("/sources/AmazDooMLeftOutline.ttf");
+}
+body {
+  margin: 0;
+  transition: background 2s;
+  background: rgb(25, 0, 37);
+  overflow-x: hidden;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 400px;
+  padding: 100px;
+}
+
+main {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: white;
+  font-family: "Doom";
+  font-size: xx-large;
+}
+
+iframe {
+  border: none;
+}
+
+h3 {
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Train One";
+  color: #404042;
+  font-size: 2.5em;
+  animation: glow1 2s linear infinite paused;
+  animation-delay: 0.5s;
+}
+
+video {
+  transition: 2s;
+  opacity: 0;
+  border: 7px solid #404042;
+  border-radius: 4px;
+  animation: boxglow 2s linear infinite paused;
+  animation-delay: 0.5s;
+}
+
+.webgl {
+  top: 0px;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  outline: none;
+  mix-blend-mode: soft-light;
+  width: 400px;
+  height: 400px;
+  z-index: 1;
+}
+
+.title {
+  word-break: break-all;
+  background-color: rgb(18, 1, 29);
+}
+
+.header {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 6em;
+  font-family: "DoomLeft";
+  text-transform: capitalize;
+  letter-spacing: 0.7rem;
+  color: #fff;
+  text-shadow: 0 0 10px rgb(51, 255, 0), 0 0 50px rgb(0, 255, 136),
+    0 0 100px rgb(174, 0, 255);
+}
+
+.titledesc {
+  color: #faf2f2;
+  font-family: "DoomLeftOutline";
+  font-size: 5em;
+  text-decoration: underline rgb(165, 32, 206);
+  height: 150px;
+}
+
+.typed-text {
+  font-family: "DoomLeft";
+  color: rgb(51, 255, 0);
+}
+
+#pbtn {
+  margin-top: 40px;
+  background-color: rgb(165, 32, 206);
+  width: 200px;
+  height: 50px;
+  border: 7px solid #404042;
+  border-radius: 100px;
+  font-family: "Doom";
+  color: white;
+  font-size: xx-large;
+  align-items: center;
+  text-transform: uppercase;
+  animation: boxglow 2s linear infinite paused;
+  animation-delay: 0.5s;
+  transition: opacity 2s;
+  opacity: 0;
+}
+
+#pbtn:hover {
+  cursor: pointer;
+}
+
+#bait {
+  background-color: rgb(165, 32, 206);
+  width: 200px;
+  height: 50px;
+  border-radius: 100px;
+  border: 7px solid rgb(51, 255, 0);
+  font-family: "Doom";
+  color: white;
+  font-size: xx-large;
+  align-items: center;
+  text-transform: uppercase;
+  box-shadow: 0 0 10px rgb(51, 255, 0), 0 0 50px rgb(51, 255, 0);
+}
+
+#bait:hover {
+  cursor: pointer;
+}
+
+#maindesc {
+  transition: 2s;
+  opacity: 0;
+}
+
+.desc {
+  transition: 2s;
+  opacity: 0;
+  text-align: center;
+  font-family: "Train One", cursive;
+  color: #404042;
+  font-size: xx-large;
+}
+
+.desc > span {
+  animation: glow 17s ease-in-out infinite paused;
+}
+
+.desc > span:nth-child(1) {
+  animation-delay: 1s;
+}
+
+.desc > span:nth-child(2) {
+  animation-delay: 3s;
+}
+
+.desc > span:nth-child(3) {
+  animation-delay: 5s;
+}
+
+.desc > span:nth-child(4) {
+  animation-delay: 7s;
+}
+
+.desc > span:nth-child(5) {
+  animation-delay: 9s;
+}
+
+.desc > span:nth-child(6) {
+  animation-delay: 11s;
+}
+
+.desc > span:nth-child(7) {
+  animation-delay: 13.5s;
+}
+
+.desc > span:nth-child(8) {
+  animation-delay: 15.5s;
+}
+
+.desc > span:nth-child(9) {
+  animation-delay: 16s;
+}
+
+.titledesc > span.cursor {
+  display: inline-block;
+  background-color: #eafdf8;
+  margin-left: 0.1rem;
+  width: 3px;
+  animation: blink 1s infinite;
+}
+.container p span.cursor.typing {
+  animation: none;
+}
+
+@keyframes boxglow {
+  0%,
+  100% {
+    border-color: #faf2f2;
+    box-shadow: 0 0 10px rgb(51, 255, 0), 0 0 50px rgb(51, 255, 0);
+  }
+
+  10%,
+  90% {
+    border-color: #404042;
+    box-shadow: none;
+  }
+}
+
+@keyframes glow1 {
+  0%,
+  100% {
+    color: #faf2f2;
+    text-shadow: 0 0 10px rgb(51, 255, 0), 0 0 50px rgb(51, 255, 0);
+  }
+
+  10%,
+  90% {
+    color: #404042;
+    text-shadow: none;
+  }
+}
+
+@keyframes glow {
+  0%,
+  100% {
+    color: #faf2f2;
+    text-shadow: 0 0 10px rgb(51, 255, 0), 0 0 50px rgb(51, 255, 0);
+  }
+
+  10%,
+  90% {
+    color: #404042;
+    text-shadow: none;
+  }
+}
+
+@keyframes blink {
+  0% {
+    background-color: #eafdf8;
+  }
+  49% {
+    background-color: #eafdf8;
+  }
+  50% {
+    background-color: transparent;
+  }
+  99% {
+    background-color: transparent;
+  }
+  100% {
+    background-color: #eafdf8;
+  }
+}
+
+.Robot-Inline {
+  font-family: "Bungee Inline", cursive;
+}
+
+.Robot-Outline {
+  font-family: "Bungee Outline", cursive;
+}
+
+.Robot-Train {
+  font-family: "Train One", cursive;
+}
+
+.Robot-Monoton {
+  font-family: "Monoton", cursive;
+}
+
+::-webkit-scrollbar {
+  width: 0.25rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #1e1e24;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(51, 255, 0);
+}
