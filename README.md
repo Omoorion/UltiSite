@@ -32,9 +32,9 @@
 
 #### 🟢 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-# License:
+# 💼 License:
 
-### 💼 https://creativecommons.org/licenses/by-nc/4.0/
+### https://creativecommons.org/licenses/by-nc/4.0/
 
 ### ⬇️
 
