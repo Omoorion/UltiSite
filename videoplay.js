@@ -28,7 +28,7 @@ bait.addEventListener("click", ()=>{
         body.style.background = "#000"
         scrollToElement(maintxt)
         video.play()
-        video.volume=0.6
+        video.volume=0.5
         video.muted = !video.muted
         animtxt.style.visibility="hidden" //for now..
         //animtxt.style.opacity=1
