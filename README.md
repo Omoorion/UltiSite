@@ -1,8 +1,8 @@
-# Omoor's Ultimate Site
+# 🎶 Omoors Ultimate Site
 
 ### 🟢 Link: [Click here](https://omoorion.github.io/UltiSite/)
 
-## Where is the code❓
+## ❓ Where is the code?
 
 ### 🟠 index.html -> text and such
 
@@ -14,7 +14,7 @@
 
 ### 🟡 videoplay.js -> glow animation and video timing and button functions
 
-## Sources Credits:
+## 🧾 Sources Credits:
 
 ### 🟣 Ghost Astley Tokyo Music Video -
 
