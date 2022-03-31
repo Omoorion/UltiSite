@@ -5,6 +5,7 @@
 @font-face {
   font-family: "Doom";
   src: url("./sources/Doom2016Text-GOlBq.ttf") format("truetype");
+  /*you have to use ./ for relative path instead of / for absolute path*/
 }
 @font-face {
   font-family: "DoomLeft";
