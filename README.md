@@ -1,6 +1,6 @@
 # Omoor's Ultimate Site
 
-### Link: <span style="color: rgb(51, 255, 0);">[Click here](https://omoorion.github.io/UltiSite/)</span>
+### Link: <span style="color: green;">[Click here](https://omoorion.github.io/UltiSite/)</span>
 
 ## Sources Credits:
 
