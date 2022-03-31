@@ -20,7 +20,7 @@
 
 #### 🟢 https://www.youtube.com/watch?v=aYsgsSo1aow
 
-### 🟣 AmazDoom Fonts -
+### 🟣 AmazDooM Fonts -
 
 #### 🟢 https://fontmeme.com/doom-font/
 
