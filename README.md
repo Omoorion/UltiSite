@@ -48,7 +48,7 @@
 
 ##### - 🧑🏻‍🔧 remix, transform, and build upon the material
 
-### ✴️ The licensor cannot revoke these freedoms as long as you follow the license terms -
+### ✴️ The licensor cannot revoke these freedoms as long as you follow the license terms:
 
 ### ❗ Under the following terms:
 
