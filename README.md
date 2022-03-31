@@ -36,9 +36,9 @@
 
 ### https://creativecommons.org/licenses/by-nc/4.0/
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⇩
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⇩
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;You are free to:
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You are free to:
 
 ##### Share — copy and redistribute the material in any medium or format
 
