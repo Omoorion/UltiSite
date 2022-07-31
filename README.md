@@ -4,7 +4,7 @@
 
 ## ❓ Where is the code?
 
-### 🟠 index.html -> text and such
+### 🟠 index.html -> text and the site's skeleton
 
 ### 🔵 style.css -> websites style and designing
 
